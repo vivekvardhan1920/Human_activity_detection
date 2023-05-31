@@ -3,7 +3,7 @@ detecting human activities and sending an alert
 This mini project is done during my 6th semester using yolov8
 
 ->dataset:
-used various platforms like roboflow and Kaggle.
+collected from various platforms like roboflow and Kaggle.
 
-->for labeling the images(to et json file formate):
+->for labeling the images(to get them into json file format):
 used "lable me"
