@@ -1,9 +1,10 @@
 # Human_activity_detection
 detecting human activities and sending an alert
-This mini project is done during my 6th semester using yolov8
+
+This mini-project is done during my 6th semester using Yolov 8.
 
 ->dataset:
 collected from various platforms like roboflow and Kaggle.
 
-->for labeling the images(to get them into json file format):
-used "lable me"
+For labeling the images (to get them into JSON file format):
+used "lable me."
